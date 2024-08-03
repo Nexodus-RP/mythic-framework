@@ -14,7 +14,7 @@
 
 
 -- Dumping database structure for mythicrp
-CREATE DATABASE IF NOT EXISTS `mythicrp` /*!40100 DEFAULT CHARACTER SET latin1 */;
+CREATE DATABASE IF NOT EXISTS `nexodusrp` /*!40100 DEFAULT CHARACTER SET latin1 */;
 USE `mythicrp`;
 
 -- Dumping structure for table mythicrp.crafting_cooldowns
